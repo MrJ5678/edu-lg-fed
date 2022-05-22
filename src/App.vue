@@ -1,10 +1,12 @@
 <template>
   <div id="app">
-    <h1>教育</h1>
     <!-- 根路由出口 -->
-    <router-view/>
+    <router-view />
   </div>
 </template>
 
-<style lang="scss" scoped>
-</style>
+<script>
+export default {}
+</script>
+
+<style lang="scss" scoped></style>
